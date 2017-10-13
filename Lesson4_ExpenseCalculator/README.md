@@ -13,8 +13,7 @@ Web Application Development
 (This projet is an expense calculator which determines the expense for a family with the percentage amount of each expense.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+(https://connerfitzpatrick.github.io/lesson4_javascript1/.)
 
 ### Lessons Learned in the Assignment:
 1. (I learned how to assign a variable to a certain name)
